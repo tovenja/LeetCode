@@ -1,7 +1,5 @@
 package alibaba.online.test;
 
-import sun.jvm.hotspot.debugger.MachineDescriptionIntelX86;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
